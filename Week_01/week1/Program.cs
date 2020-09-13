@@ -1,4 +1,5 @@
 ﻿using System;
+using static week1.HomeWork;
 
 namespace week1
 {
@@ -6,7 +7,8 @@ namespace week1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] height = new int[6] {4,2,0,3,2,5};
+            new HomeWork().Trap(height);
         }
 
     }
