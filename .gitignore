@@ -1,2 +1,4 @@
-Week_01/week1/bin
-Week_01/week1/obj
+bin/
+obj/
+/bin
+/obj
